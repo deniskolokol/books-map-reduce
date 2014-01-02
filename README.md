@@ -5,11 +5,11 @@ Map-Reduce over books, authors and publishers. Coursera, Web Intelligence and Bi
 
 Start this script:
 
-      `$ python wordcount.py`
+      $ python wordcount.py
 
 Then in the separate shell start server:
 
-     `$ python mincemeat.py -p changeme localhost`
+     $ python mincemeat.py -p changeme localhost
 
 
 WARNING!
