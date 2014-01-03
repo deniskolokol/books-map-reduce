@@ -4,7 +4,9 @@ Books and authors map-reduce
 Map-Reduce over books, authors and publishers. Coursera, Web Intelligence and Big Data, HW3
 
 Prerequisites:
+
 mincemeat https://github.com/michaelfairley/mincemeatpy
+
 PyPDF2 https://github.com/mstamy2/PyPDF2 (for PDF word counter only)
 
 Start this script:
